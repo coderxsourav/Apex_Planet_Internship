@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url(wallhaven-2yp6gg_3840x3072.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: #f6f6f6;
+  color: #333;
+}
+
+header {
+  background-color: #1f78b4;
+  color: rgb(4, 3, 3);
+  padding: 20px 0;
+}
+
+main {
+  padding: 40px 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: #2ecc71;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+button:hover {
+  background-color: #27ae60;
+}
+
+footer {
+  background-color: #2c3e50;
+  color: white;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
